@@ -1,6 +1,9 @@
 # Striver
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
+## LeetCode Streak
+[![anuj990's LeetCode Streak](https://leetcard.jacoblin.cool/anuj990?theme=dark&ext=heatmap)](https://leetcode.com/anuj990)
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
