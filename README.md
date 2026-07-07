@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/anuj990/Striver/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/anuj990/Striver/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/anuj990/Striver/tree/master/0070-climbing-stairs) |
 | [1903-largest-odd-number-in-string](https://github.com/anuj990/Striver/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -118,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/anuj990/Striver/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anuj990/Striver/tree/master/0234-palindrome-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anuj990/Striver/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anuj990/Striver/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
