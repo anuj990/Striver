@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anuj990/Striver/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/anuj990/Striver/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/anuj990/Striver/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/anuj990/Striver/tree/master/0258-add-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/anuj990/Striver/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -128,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anuj990/Striver/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/anuj990/Striver/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/anuj990/Striver/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
