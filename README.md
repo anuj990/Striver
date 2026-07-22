@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anuj990/Striver/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/anuj990/Striver/tree/master/0014-longest-common-prefix) |
+| [0039-combination-sum](https://github.com/anuj990/Striver/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/anuj990/Striver/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/anuj990/Striver/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuj990/Striver/tree/master/0240-search-a-2d-matrix-ii) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anuj990/Striver/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/anuj990/Striver/tree/master/0039-combination-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
