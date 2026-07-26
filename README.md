@@ -40,6 +40,7 @@ void operator delete[](void* ptr) {}
 | [0078-subsets](https://github.com/anuj990/Striver/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anuj990/Striver/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/anuj990/Striver/tree/master/0090-subsets-ii) |
+| [0204-count-primes](https://github.com/anuj990/Striver/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/anuj990/Striver/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuj990/Striver/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anuj990/Striver/tree/master/0268-missing-number) |
@@ -114,6 +115,7 @@ void operator delete[](void* ptr) {}
 | [0050-powx-n](https://github.com/anuj990/Striver/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/anuj990/Striver/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/anuj990/Striver/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/anuj990/Striver/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/anuj990/Striver/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/anuj990/Striver/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/anuj990/Striver/tree/master/0268-missing-number) |
@@ -212,6 +214,7 @@ void operator delete[](void* ptr) {}
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/anuj990/Striver/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/anuj990/Striver/tree/master/0258-add-digits) |
 ## Merge Sort
 |  |
@@ -245,4 +248,8 @@ void operator delete[](void* ptr) {}
 |  |
 | ------- |
 | [0079-word-search](https://github.com/anuj990/Striver/tree/master/0079-word-search) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/anuj990/Striver/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
