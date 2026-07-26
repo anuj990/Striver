@@ -1,20 +1,22 @@
 class Solution {
 public:
-    double power(double x, long n){
-                if(n==0){
-            return 1.0;
-        }
-        if(n==1){
-            return x;
-        }
-        if(n%2==0){
-            return myPow(x*x,n/2);
-        }
-        return x*(myPow(x,n-1));
-    }
     double myPow(double x, int n) {
-        double num = n;
-        if(num<0){return (1.0 / power(x, -1 * num));}
-        return power(x, num);
+        long long N = n;
+        double  ans = 1.0;
+         if (N < 0)
+            N = -N;
+            while(N>0){
+                if(N%2==1){
+                    ans = ans*x;
+                    N = N-1;
+                }else{
+                    x = x*x;
+                    N = N/2;
+                }
+            }
+            if(n<0){
+                ans = (double)(1.0)/(double)(ans);
+            }
+        return ans;
     }
 };
