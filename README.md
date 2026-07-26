@@ -43,6 +43,7 @@ void operator delete[](void* ptr) {}
 | [0216-combination-sum-iii](https://github.com/anuj990/Striver/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuj990/Striver/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anuj990/Striver/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anuj990/Striver/tree/master/0628-maximum-product-of-three-numbers) |
 | [1901-find-a-peak-element-ii](https://github.com/anuj990/Striver/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
@@ -118,6 +119,7 @@ void operator delete[](void* ptr) {}
 | [0268-missing-number](https://github.com/anuj990/Striver/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/anuj990/Striver/tree/master/0282-expression-add-operators) |
 | [0441-arranging-coins](https://github.com/anuj990/Striver/tree/master/0441-arranging-coins) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anuj990/Striver/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/anuj990/Striver/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/anuj990/Striver/tree/master/1922-count-good-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/anuj990/Striver/tree/master/3536-maximum-product-of-two-digits) |
@@ -153,6 +155,7 @@ void operator delete[](void* ptr) {}
 | [0242-valid-anagram](https://github.com/anuj990/Striver/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anuj990/Striver/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/anuj990/Striver/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anuj990/Striver/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/anuj990/Striver/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
