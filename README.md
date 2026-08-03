@@ -257,4 +257,8 @@ void operator delete[](void* ptr) {}
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/anuj990/Striver/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/anuj990/Striver/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
