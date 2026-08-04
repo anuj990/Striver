@@ -47,6 +47,7 @@ void operator delete[](void* ptr) {}
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj990/Striver/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuj990/Striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/anuj990/Striver/tree/master/1901-find-a-peak-element-ii) |
+| [3731-find-missing-elements](https://github.com/anuj990/Striver/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -149,6 +150,7 @@ void operator delete[](void* ptr) {}
 | [0242-valid-anagram](https://github.com/anuj990/Striver/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anuj990/Striver/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/anuj990/Striver/tree/master/0451-sort-characters-by-frequency) |
+| [3731-find-missing-elements](https://github.com/anuj990/Striver/tree/master/3731-find-missing-elements) |
 ## String Matching
 |  |
 | ------- |
@@ -163,6 +165,7 @@ void operator delete[](void* ptr) {}
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj990/Striver/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuj990/Striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/anuj990/Striver/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/anuj990/Striver/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
