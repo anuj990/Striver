@@ -93,6 +93,7 @@ void operator delete[](void* ptr) {}
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/anuj990/Striver/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/anuj990/Striver/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/anuj990/Striver/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anuj990/Striver/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -270,4 +271,12 @@ void operator delete[](void* ptr) {}
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/anuj990/Striver/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/anuj990/Striver/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/anuj990/Striver/tree/master/1757-recyclable-and-low-fat-products) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/anuj990/Striver/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/anuj990/Striver/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
