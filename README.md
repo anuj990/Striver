@@ -34,6 +34,7 @@ void operator delete[](void* ptr) {}
 | [0037-sudoku-solver](https://github.com/anuj990/Striver/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/anuj990/Striver/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anuj990/Striver/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/anuj990/Striver/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/anuj990/Striver/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/anuj990/Striver/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/anuj990/Striver/tree/master/0074-search-a-2d-matrix) |
@@ -95,6 +96,7 @@ void operator delete[](void* ptr) {}
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anuj990/Striver/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/anuj990/Striver/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/anuj990/Striver/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/anuj990/Striver/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anuj990/Striver/tree/master/0232-implement-queue-using-stacks) |
@@ -105,6 +107,7 @@ void operator delete[](void* ptr) {}
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anuj990/Striver/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/anuj990/Striver/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/anuj990/Striver/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/anuj990/Striver/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anuj990/Striver/tree/master/0142-linked-list-cycle-ii) |
@@ -215,6 +218,7 @@ void operator delete[](void* ptr) {}
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/anuj990/Striver/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/anuj990/Striver/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/anuj990/Striver/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -290,4 +294,8 @@ void operator delete[](void* ptr) {}
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anuj990/Striver/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/anuj990/Striver/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
