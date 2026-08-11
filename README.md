@@ -40,6 +40,7 @@ void operator delete[](void* ptr) {}
 | [0074-search-a-2d-matrix](https://github.com/anuj990/Striver/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/anuj990/Striver/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/anuj990/Striver/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/anuj990/Striver/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/anuj990/Striver/tree/master/0090-subsets-ii) |
 | [0204-count-primes](https://github.com/anuj990/Striver/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/anuj990/Striver/tree/master/0216-combination-sum-iii) |
@@ -99,6 +100,7 @@ void operator delete[](void* ptr) {}
 | ------- |
 | [0020-valid-parentheses](https://github.com/anuj990/Striver/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anuj990/Striver/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/anuj990/Striver/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/anuj990/Striver/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/anuj990/Striver/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anuj990/Striver/tree/master/0232-implement-queue-using-stacks) |
@@ -304,5 +306,10 @@ void operator delete[](void* ptr) {}
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anuj990/Striver/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/anuj990/Striver/tree/master/0084-largest-rectangle-in-histogram) |
 | [0907-sum-of-subarray-minimums](https://github.com/anuj990/Striver/tree/master/0907-sum-of-subarray-minimums) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/anuj990/Striver/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
