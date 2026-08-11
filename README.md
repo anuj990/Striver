@@ -45,6 +45,7 @@ void operator delete[](void* ptr) {}
 | [0090-subsets-ii](https://github.com/anuj990/Striver/tree/master/0090-subsets-ii) |
 | [0204-count-primes](https://github.com/anuj990/Striver/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/anuj990/Striver/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/anuj990/Striver/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuj990/Striver/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anuj990/Striver/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj990/Striver/tree/master/0628-maximum-product-of-three-numbers) |
@@ -186,6 +187,7 @@ void operator delete[](void* ptr) {}
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/anuj990/Striver/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/anuj990/Striver/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuj990/Striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
@@ -302,6 +304,7 @@ void operator delete[](void* ptr) {}
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anuj990/Striver/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anuj990/Striver/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/anuj990/Striver/tree/master/0239-sliding-window-maximum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -317,4 +320,13 @@ void operator delete[](void* ptr) {}
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/anuj990/Striver/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/anuj990/Striver/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/anuj990/Striver/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/anuj990/Striver/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
