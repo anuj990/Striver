@@ -110,6 +110,7 @@ void operator delete[](void* ptr) {}
 | [0232-implement-queue-using-stacks](https://github.com/anuj990/Striver/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anuj990/Striver/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/anuj990/Striver/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/anuj990/Striver/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/anuj990/Striver/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/anuj990/Striver/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anuj990/Striver/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -299,6 +300,7 @@ void operator delete[](void* ptr) {}
 | [0155-min-stack](https://github.com/anuj990/Striver/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/anuj990/Striver/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anuj990/Striver/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/anuj990/Striver/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -315,6 +317,7 @@ void operator delete[](void* ptr) {}
 | [0042-trapping-rain-water](https://github.com/anuj990/Striver/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anuj990/Striver/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anuj990/Striver/tree/master/0085-maximal-rectangle) |
+| [0901-online-stock-span](https://github.com/anuj990/Striver/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/anuj990/Striver/tree/master/0907-sum-of-subarray-minimums) |
 ## Range Minimum/Maximum Query
 |  |
@@ -329,4 +332,8 @@ void operator delete[](void* ptr) {}
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/anuj990/Striver/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/anuj990/Striver/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
