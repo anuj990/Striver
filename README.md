@@ -29,6 +29,7 @@ void operator delete[](void* ptr) {}
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anuj990/Striver/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anuj990/Striver/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/anuj990/Striver/tree/master/0014-longest-common-prefix) |
 | [0037-sudoku-solver](https://github.com/anuj990/Striver/tree/master/0037-sudoku-solver) |
@@ -159,6 +160,7 @@ void operator delete[](void* ptr) {}
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anuj990/Striver/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anuj990/Striver/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anuj990/Striver/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/anuj990/Striver/tree/master/0037-sudoku-solver) |
