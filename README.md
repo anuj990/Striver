@@ -53,6 +53,7 @@ void operator delete[](void* ptr) {}
 | [0735-asteroid-collision](https://github.com/anuj990/Striver/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/anuj990/Striver/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/anuj990/Striver/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/anuj990/Striver/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anuj990/Striver/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuj990/Striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/anuj990/Striver/tree/master/1901-find-a-peak-element-ii) |
@@ -180,6 +181,7 @@ void operator delete[](void* ptr) {}
 | [0451-sort-characters-by-frequency](https://github.com/anuj990/Striver/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/anuj990/Striver/tree/master/0460-lfu-cache) |
 | [0904-fruit-into-baskets](https://github.com/anuj990/Striver/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/anuj990/Striver/tree/master/0930-binary-subarrays-with-sum) |
 | [3731-find-missing-elements](https://github.com/anuj990/Striver/tree/master/3731-find-missing-elements) |
 ## String Matching
 |  |
@@ -344,6 +346,7 @@ void operator delete[](void* ptr) {}
 | [0239-sliding-window-maximum](https://github.com/anuj990/Striver/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/anuj990/Striver/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/anuj990/Striver/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/anuj990/Striver/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anuj990/Striver/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Queue
 |  |
@@ -360,5 +363,6 @@ void operator delete[](void* ptr) {}
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/anuj990/Striver/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anuj990/Striver/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
