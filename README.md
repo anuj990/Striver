@@ -55,6 +55,7 @@ void operator delete[](void* ptr) {}
 | [0907-sum-of-subarray-minimums](https://github.com/anuj990/Striver/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/anuj990/Striver/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anuj990/Striver/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/anuj990/Striver/tree/master/1248-count-number-of-nice-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuj990/Striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/anuj990/Striver/tree/master/1901-find-a-peak-element-ii) |
 | [3731-find-missing-elements](https://github.com/anuj990/Striver/tree/master/3731-find-missing-elements) |
@@ -151,6 +152,7 @@ void operator delete[](void* ptr) {}
 | [0282-expression-add-operators](https://github.com/anuj990/Striver/tree/master/0282-expression-add-operators) |
 | [0441-arranging-coins](https://github.com/anuj990/Striver/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj990/Striver/tree/master/0628-maximum-product-of-three-numbers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/anuj990/Striver/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/anuj990/Striver/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/anuj990/Striver/tree/master/1922-count-good-numbers) |
 | [3280-convert-date-to-binary](https://github.com/anuj990/Striver/tree/master/3280-convert-date-to-binary) |
@@ -182,6 +184,7 @@ void operator delete[](void* ptr) {}
 | [0460-lfu-cache](https://github.com/anuj990/Striver/tree/master/0460-lfu-cache) |
 | [0904-fruit-into-baskets](https://github.com/anuj990/Striver/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/anuj990/Striver/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/anuj990/Striver/tree/master/1248-count-number-of-nice-subarrays) |
 | [3731-find-missing-elements](https://github.com/anuj990/Striver/tree/master/3731-find-missing-elements) |
 ## String Matching
 |  |
@@ -348,6 +351,7 @@ void operator delete[](void* ptr) {}
 | [0904-fruit-into-baskets](https://github.com/anuj990/Striver/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/anuj990/Striver/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anuj990/Striver/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/anuj990/Striver/tree/master/1248-count-number-of-nice-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -365,4 +369,5 @@ void operator delete[](void* ptr) {}
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/anuj990/Striver/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/anuj990/Striver/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/anuj990/Striver/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
