@@ -45,6 +45,7 @@ void operator delete[](void* ptr) {}
 | [0085-maximal-rectangle](https://github.com/anuj990/Striver/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/anuj990/Striver/tree/master/0090-subsets-ii) |
 | [0204-count-primes](https://github.com/anuj990/Striver/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/anuj990/Striver/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/anuj990/Striver/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/anuj990/Striver/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuj990/Striver/tree/master/0240-search-a-2d-matrix-ii) |
@@ -75,6 +76,7 @@ void operator delete[](void* ptr) {}
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anuj990/Striver/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/anuj990/Striver/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/anuj990/Striver/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuj990/Striver/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -199,6 +201,7 @@ void operator delete[](void* ptr) {}
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/anuj990/Striver/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/anuj990/Striver/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/anuj990/Striver/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anuj990/Striver/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/anuj990/Striver/tree/master/0451-sort-characters-by-frequency) |
@@ -209,6 +212,7 @@ void operator delete[](void* ptr) {}
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anuj990/Striver/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/anuj990/Striver/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/anuj990/Striver/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuj990/Striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -379,4 +383,8 @@ void operator delete[](void* ptr) {}
 | [1004-max-consecutive-ones-iii](https://github.com/anuj990/Striver/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anuj990/Striver/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anuj990/Striver/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anuj990/Striver/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
