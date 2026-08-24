@@ -50,6 +50,7 @@ void operator delete[](void* ptr) {}
 | [0239-sliding-window-maximum](https://github.com/anuj990/Striver/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anuj990/Striver/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anuj990/Striver/tree/master/0268-missing-number) |
+| [0621-task-scheduler](https://github.com/anuj990/Striver/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj990/Striver/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/anuj990/Striver/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/anuj990/Striver/tree/master/0904-fruit-into-baskets) |
@@ -166,6 +167,7 @@ void operator delete[](void* ptr) {}
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/anuj990/Striver/tree/master/0621-task-scheduler) |
 | [1903-largest-odd-number-in-string](https://github.com/anuj990/Striver/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -189,6 +191,7 @@ void operator delete[](void* ptr) {}
 | [0424-longest-repeating-character-replacement](https://github.com/anuj990/Striver/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/anuj990/Striver/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/anuj990/Striver/tree/master/0460-lfu-cache) |
+| [0621-task-scheduler](https://github.com/anuj990/Striver/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/anuj990/Striver/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/anuj990/Striver/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anuj990/Striver/tree/master/1248-count-number-of-nice-subarrays) |
@@ -206,6 +209,7 @@ void operator delete[](void* ptr) {}
 | [0242-valid-anagram](https://github.com/anuj990/Striver/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/anuj990/Striver/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/anuj990/Striver/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/anuj990/Striver/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj990/Striver/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuj990/Striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/anuj990/Striver/tree/master/3536-maximum-product-of-two-digits) |
@@ -217,6 +221,7 @@ void operator delete[](void* ptr) {}
 | [0215-kth-largest-element-in-an-array](https://github.com/anuj990/Striver/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/anuj990/Striver/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/anuj990/Striver/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/anuj990/Striver/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuj990/Striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
@@ -226,6 +231,7 @@ void operator delete[](void* ptr) {}
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/anuj990/Striver/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/anuj990/Striver/tree/master/0621-task-scheduler) |
 ## Linked List
 |  |
 | ------- |
