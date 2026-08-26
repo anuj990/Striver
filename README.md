@@ -51,6 +51,7 @@ void operator delete[](void* ptr) {}
 | [0240-search-a-2d-matrix-ii](https://github.com/anuj990/Striver/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/anuj990/Striver/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/anuj990/Striver/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/anuj990/Striver/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/anuj990/Striver/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj990/Striver/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/anuj990/Striver/tree/master/0735-asteroid-collision) |
@@ -145,6 +146,7 @@ void operator delete[](void* ptr) {}
 | [0160-intersection-of-two-linked-lists](https://github.com/anuj990/Striver/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/anuj990/Striver/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/anuj990/Striver/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/anuj990/Striver/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/anuj990/Striver/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anuj990/Striver/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -171,6 +173,7 @@ void operator delete[](void* ptr) {}
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/anuj990/Striver/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/anuj990/Striver/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/anuj990/Striver/tree/master/0846-hand-of-straights) |
 | [1903-largest-odd-number-in-string](https://github.com/anuj990/Striver/tree/master/1903-largest-odd-number-in-string) |
@@ -219,6 +222,7 @@ void operator delete[](void* ptr) {}
 | [0295-find-median-from-data-stream](https://github.com/anuj990/Striver/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/anuj990/Striver/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/anuj990/Striver/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/anuj990/Striver/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/anuj990/Striver/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj990/Striver/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/anuj990/Striver/tree/master/0846-hand-of-straights) |
@@ -437,4 +441,8 @@ void operator delete[](void* ptr) {}
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anuj990/Striver/tree/master/0703-kth-largest-element-in-a-stream) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/anuj990/Striver/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
