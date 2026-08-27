@@ -56,6 +56,7 @@ void operator delete[](void* ptr) {}
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj990/Striver/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/anuj990/Striver/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/anuj990/Striver/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/anuj990/Striver/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/anuj990/Striver/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/anuj990/Striver/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/anuj990/Striver/tree/master/0930-binary-subarrays-with-sum) |
@@ -176,6 +177,7 @@ void operator delete[](void* ptr) {}
 | [0455-assign-cookies](https://github.com/anuj990/Striver/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/anuj990/Striver/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/anuj990/Striver/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/anuj990/Striver/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/anuj990/Striver/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
