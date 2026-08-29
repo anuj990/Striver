@@ -36,6 +36,7 @@ void operator delete[](void* ptr) {}
 | [0039-combination-sum](https://github.com/anuj990/Striver/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anuj990/Striver/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/anuj990/Striver/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/anuj990/Striver/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/anuj990/Striver/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/anuj990/Striver/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/anuj990/Striver/tree/master/0066-plus-one) |
@@ -175,6 +176,7 @@ void operator delete[](void* ptr) {}
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/anuj990/Striver/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anuj990/Striver/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/anuj990/Striver/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/anuj990/Striver/tree/master/0621-task-scheduler) |
@@ -292,6 +294,7 @@ void operator delete[](void* ptr) {}
 | ------- |
 | [0022-generate-parentheses](https://github.com/anuj990/Striver/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anuj990/Striver/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/anuj990/Striver/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anuj990/Striver/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/anuj990/Striver/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/anuj990/Striver/tree/master/0085-maximal-rectangle) |
