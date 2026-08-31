@@ -46,6 +46,7 @@ void operator delete[](void* ptr) {}
 | [0084-largest-rectangle-in-histogram](https://github.com/anuj990/Striver/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/anuj990/Striver/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/anuj990/Striver/tree/master/0090-subsets-ii) |
+| [0135-candy](https://github.com/anuj990/Striver/tree/master/0135-candy) |
 | [0204-count-primes](https://github.com/anuj990/Striver/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anuj990/Striver/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/anuj990/Striver/tree/master/0216-combination-sum-iii) |
@@ -178,6 +179,7 @@ void operator delete[](void* ptr) {}
 | ------- |
 | [0045-jump-game-ii](https://github.com/anuj990/Striver/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anuj990/Striver/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/anuj990/Striver/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/anuj990/Striver/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/anuj990/Striver/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/anuj990/Striver/tree/master/0846-hand-of-straights) |
