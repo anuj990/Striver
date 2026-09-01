@@ -39,6 +39,7 @@ void operator delete[](void* ptr) {}
 | [0045-jump-game-ii](https://github.com/anuj990/Striver/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/anuj990/Striver/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/anuj990/Striver/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/anuj990/Striver/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/anuj990/Striver/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/anuj990/Striver/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/anuj990/Striver/tree/master/0078-subsets) |
