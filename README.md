@@ -70,6 +70,7 @@ void operator delete[](void* ptr) {}
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuj990/Striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/anuj990/Striver/tree/master/1901-find-a-peak-element-ii) |
 | [3731-find-missing-elements](https://github.com/anuj990/Striver/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/anuj990/Striver/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -175,6 +176,7 @@ void operator delete[](void* ptr) {}
 | [1922-count-good-numbers](https://github.com/anuj990/Striver/tree/master/1922-count-good-numbers) |
 | [3280-convert-date-to-binary](https://github.com/anuj990/Striver/tree/master/3280-convert-date-to-binary) |
 | [3536-maximum-product-of-two-digits](https://github.com/anuj990/Striver/tree/master/3536-maximum-product-of-two-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/anuj990/Striver/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
