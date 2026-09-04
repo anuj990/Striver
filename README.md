@@ -73,6 +73,7 @@ void operator delete[](void* ptr) {}
 | [3731-find-missing-elements](https://github.com/anuj990/Striver/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anuj990/Striver/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anuj990/Striver/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/anuj990/Striver/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -439,6 +440,7 @@ void operator delete[](void* ptr) {}
 | [1004-max-consecutive-ones-iii](https://github.com/anuj990/Striver/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anuj990/Striver/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anuj990/Striver/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3903-smallest-stable-index-i](https://github.com/anuj990/Striver/tree/master/3903-smallest-stable-index-i) |
 ## Quickselect
 |  |
 | ------- |
