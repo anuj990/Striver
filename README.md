@@ -116,6 +116,7 @@ void operator delete[](void* ptr) {}
 | [0022-generate-parentheses](https://github.com/anuj990/Striver/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/anuj990/Striver/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/anuj990/Striver/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/anuj990/Striver/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/anuj990/Striver/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/anuj990/Striver/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/anuj990/Striver/tree/master/0242-valid-anagram) |
@@ -310,6 +311,7 @@ void operator delete[](void* ptr) {}
 | [0055-jump-game](https://github.com/anuj990/Striver/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/anuj990/Striver/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/anuj990/Striver/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/anuj990/Striver/tree/master/0115-distinct-subsequences) |
 | [0907-sum-of-subarray-minimums](https://github.com/anuj990/Striver/tree/master/0907-sum-of-subarray-minimums) |
 ## Memoization
 |  |
