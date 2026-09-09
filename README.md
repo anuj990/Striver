@@ -184,6 +184,7 @@ void operator delete[](void* ptr) {}
 | [3280-convert-date-to-binary](https://github.com/anuj990/Striver/tree/master/3280-convert-date-to-binary) |
 | [3536-maximum-product-of-two-digits](https://github.com/anuj990/Striver/tree/master/3536-maximum-product-of-two-digits) |
 | [3870-count-commas-in-range](https://github.com/anuj990/Striver/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/anuj990/Striver/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anuj990/Striver/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anuj990/Striver/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
