@@ -365,6 +365,7 @@ void operator delete[](void* ptr) {}
 |  |
 | ------- |
 | [0079-word-search](https://github.com/anuj990/Striver/tree/master/0079-word-search) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anuj990/Striver/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
 |  |
 | ------- |
@@ -462,6 +463,7 @@ void operator delete[](void* ptr) {}
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anuj990/Striver/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anuj990/Striver/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -470,6 +472,7 @@ void operator delete[](void* ptr) {}
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anuj990/Striver/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/anuj990/Striver/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Quicksort
 |  |
 | ------- |
