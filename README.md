@@ -69,6 +69,7 @@ void operator delete[](void* ptr) {}
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anuj990/Striver/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuj990/Striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/anuj990/Striver/tree/master/1901-find-a-peak-element-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anuj990/Striver/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anuj990/Striver/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/anuj990/Striver/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anuj990/Striver/tree/master/3875-construct-uniform-parity-array-i) |
@@ -228,6 +229,7 @@ void operator delete[](void* ptr) {}
 | [0930-binary-subarrays-with-sum](https://github.com/anuj990/Striver/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anuj990/Striver/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anuj990/Striver/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anuj990/Striver/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anuj990/Striver/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/anuj990/Striver/tree/master/3731-find-missing-elements) |
 ## String Matching
@@ -305,6 +307,7 @@ void operator delete[](void* ptr) {}
 | [0231-power-of-two](https://github.com/anuj990/Striver/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/anuj990/Striver/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/anuj990/Striver/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anuj990/Striver/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -370,6 +373,7 @@ void operator delete[](void* ptr) {}
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/anuj990/Striver/tree/master/0204-count-primes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anuj990/Striver/tree/master/3483-unique-3-digit-even-numbers) |
 ## Database
 |  |
 | ------- |
