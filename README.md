@@ -69,6 +69,7 @@ void operator delete[](void* ptr) {}
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anuj990/Striver/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuj990/Striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/anuj990/Striver/tree/master/1901-find-a-peak-element-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anuj990/Striver/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anuj990/Striver/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anuj990/Striver/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/anuj990/Striver/tree/master/3731-find-missing-elements) |
@@ -86,6 +87,7 @@ void operator delete[](void* ptr) {}
 | [0441-arranging-coins](https://github.com/anuj990/Striver/tree/master/0441-arranging-coins) |
 | [1004-max-consecutive-ones-iii](https://github.com/anuj990/Striver/tree/master/1004-max-consecutive-ones-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/anuj990/Striver/tree/master/1901-find-a-peak-element-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anuj990/Striver/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -251,6 +253,7 @@ void operator delete[](void* ptr) {}
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj990/Striver/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/anuj990/Striver/tree/master/0846-hand-of-straights) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuj990/Striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anuj990/Striver/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/anuj990/Striver/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/anuj990/Striver/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -320,6 +323,7 @@ void operator delete[](void* ptr) {}
 | [0115-distinct-subsequences](https://github.com/anuj990/Striver/tree/master/0115-distinct-subsequences) |
 | [0907-sum-of-subarray-minimums](https://github.com/anuj990/Striver/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/anuj990/Striver/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anuj990/Striver/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
 |  |
 | ------- |
