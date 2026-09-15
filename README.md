@@ -381,6 +381,7 @@ void operator delete[](void* ptr) {}
 | ------- |
 | [0079-word-search](https://github.com/anuj990/Striver/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/anuj990/Striver/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/anuj990/Striver/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anuj990/Striver/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/anuj990/Striver/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/anuj990/Striver/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -486,6 +487,7 @@ void operator delete[](void* ptr) {}
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anuj990/Striver/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/anuj990/Striver/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/anuj990/Striver/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anuj990/Striver/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/anuj990/Striver/tree/master/0110-balanced-binary-tree) |
@@ -503,6 +505,7 @@ void operator delete[](void* ptr) {}
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anuj990/Striver/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/anuj990/Striver/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/anuj990/Striver/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anuj990/Striver/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/anuj990/Striver/tree/master/0110-balanced-binary-tree) |
@@ -519,6 +522,7 @@ void operator delete[](void* ptr) {}
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/anuj990/Striver/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/anuj990/Striver/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anuj990/Striver/tree/master/0104-maximum-depth-of-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anuj990/Striver/tree/master/3568-minimum-moves-to-clean-the-classroom) |
