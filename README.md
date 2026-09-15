@@ -132,6 +132,7 @@ void operator delete[](void* ptr) {}
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anuj990/Striver/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anuj990/Striver/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/anuj990/Striver/tree/master/1903-largest-odd-number-in-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anuj990/Striver/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3280-convert-date-to-binary](https://github.com/anuj990/Striver/tree/master/3280-convert-date-to-binary) |
 ## Stack
 |  |
@@ -168,6 +169,7 @@ void operator delete[](void* ptr) {}
 | [0455-assign-cookies](https://github.com/anuj990/Striver/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/anuj990/Striver/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anuj990/Striver/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anuj990/Striver/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
 |  |
 | ------- |
@@ -204,6 +206,7 @@ void operator delete[](void* ptr) {}
 | [0846-hand-of-straights](https://github.com/anuj990/Striver/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/anuj990/Striver/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/anuj990/Striver/tree/master/1903-largest-odd-number-in-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anuj990/Striver/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -326,6 +329,7 @@ void operator delete[](void* ptr) {}
 | [0115-distinct-subsequences](https://github.com/anuj990/Striver/tree/master/0115-distinct-subsequences) |
 | [0907-sum-of-subarray-minimums](https://github.com/anuj990/Striver/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/anuj990/Striver/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anuj990/Striver/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anuj990/Striver/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
 |  |
