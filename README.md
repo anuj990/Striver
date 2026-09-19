@@ -190,6 +190,7 @@ void operator delete[](void* ptr) {}
 | [0441-arranging-coins](https://github.com/anuj990/Striver/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj990/Striver/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anuj990/Striver/tree/master/1248-count-number-of-nice-subarrays) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/anuj990/Striver/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anuj990/Striver/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/anuj990/Striver/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/anuj990/Striver/tree/master/1922-count-good-numbers) |
@@ -550,4 +551,8 @@ void operator delete[](void* ptr) {}
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anuj990/Striver/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/anuj990/Striver/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
