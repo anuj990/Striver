@@ -134,6 +134,7 @@ void operator delete[](void* ptr) {}
 | [0796-rotate-string](https://github.com/anuj990/Striver/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/anuj990/Striver/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/anuj990/Striver/tree/master/1021-remove-outermost-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/anuj990/Striver/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anuj990/Striver/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anuj990/Striver/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anuj990/Striver/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -158,6 +159,7 @@ void operator delete[](void* ptr) {}
 | [0901-online-stock-span](https://github.com/anuj990/Striver/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/anuj990/Striver/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/anuj990/Striver/tree/master/1021-remove-outermost-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/anuj990/Striver/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anuj990/Striver/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
@@ -247,6 +249,7 @@ void operator delete[](void* ptr) {}
 | [0846-hand-of-straights](https://github.com/anuj990/Striver/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/anuj990/Striver/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/anuj990/Striver/tree/master/0930-binary-subarrays-with-sum) |
+| [1096-brace-expansion-ii](https://github.com/anuj990/Striver/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/anuj990/Striver/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/anuj990/Striver/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anuj990/Striver/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -272,6 +275,7 @@ void operator delete[](void* ptr) {}
 | [0621-task-scheduler](https://github.com/anuj990/Striver/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuj990/Striver/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/anuj990/Striver/tree/master/0846-hand-of-straights) |
+| [1096-brace-expansion-ii](https://github.com/anuj990/Striver/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anuj990/Striver/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anuj990/Striver/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anuj990/Striver/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -383,6 +387,7 @@ void operator delete[](void* ptr) {}
 | [0090-subsets-ii](https://github.com/anuj990/Striver/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/anuj990/Striver/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/anuj990/Striver/tree/master/0282-expression-add-operators) |
+| [1096-brace-expansion-ii](https://github.com/anuj990/Striver/tree/master/1096-brace-expansion-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -548,6 +553,7 @@ void operator delete[](void* ptr) {}
 | [0102-binary-tree-level-order-traversal](https://github.com/anuj990/Striver/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/anuj990/Striver/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anuj990/Striver/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/anuj990/Striver/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anuj990/Striver/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## DP on Trees
 |  |
